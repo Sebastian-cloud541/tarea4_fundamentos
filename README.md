@@ -29,23 +29,22 @@ Datos: `casen_reducido.csv`, `salario_minimo_chile.csv` y `ene-2026-06-mjj.csv`.
 | `t4p2_figura_compuesta.png` | Figura compuesta (patchwork)| Uno de cada cuatro ocupados en Chile es informal, y la brecha de género se abre en el norte y después de los 60. |
 
 ## Reflexión
+ 1) ¿Cuál comunica MEJOR su hallazgo? El gráfico 2. Tiene
+    una sola variable cuantitativa codificada en largo desde 0 (la codificación
+    más precisa para comparar), barras ORDENADAS por valor, UN color con función
+    (Biobío en dorado, el resto en gris de contexto), los valores escritos y la
+    línea del promedio nacional.
 
-# 1) ¿Cuál comunica MEJOR su hallazgo? El gráfico 2. Tiene
-#    una sola variable cuantitativa codificada en largo desde 0 (la codificación
-#    más precisa para comparar), barras ORDENADAS por valor, UN color con función
-#    (Biobío en dorado, el resto en gris de contexto), los valores escritos y la
-#    línea del promedio nacional.
-#
-# 2) ¿Por qué densidad en el gráfico 3? Porque las medianas son IGUALES (42 h):
-#    un boxplot mostraría dos cajas casi iguales y escondería la diferencia real,
-#    que está en la FORMA de la distribución (la masa de jornadas parciales de
-#    las mujeres bajo 30 h). El violín muestra la forma, pero espejada y en dos
-#    columnas; dos densidades superpuestas en el mismo eje permiten comparar
-#    directo.
-#
-# 3) ¿Qué agrega la figura compuesta? Cuenta una historia en tres pasos que
-#    ningún gráfico solo cuenta: (A) cuánta informalidad hay y dónde, (B) que en
-#    casi todas las regiones las mujeres están peor y que la brecha es mayor en
-#    el norte, (C) en qué momento de la vida se abre esa brecha. Los tres paneles
-#    comparten fuente, paleta y unidad , así que se leen como un
-#    solo argumento, con un título general que dice el hallazgo de conjunto.
+ 2) ¿Por qué densidad en el gráfico 3? Porque las medianas son IGUALES (42 h):
+    un boxplot mostraría dos cajas casi iguales y escondería la diferencia real,
+    que está en la FORMA de la distribución (la masa de jornadas parciales de
+    las mujeres bajo 30 h). El violín muestra la forma, pero espejada y en dos
+    columnas; dos densidades superpuestas en el mismo eje permiten comparar
+    directo.
+
+ 3) ¿Qué agrega la figura compuesta? Cuenta una historia en tres pasos que
+    ningún gráfico solo cuenta: (A) cuánta informalidad hay y dónde, (B) que en
+    casi todas las regiones las mujeres están peor y que la brecha es mayor en
+    el norte, (C) en qué momento de la vida se abre esa brecha. Los tres paneles
+    comparten fuente, paleta y unidad , así que se leen como un
+    solo argumento, con un título general que dice el hallazgo de conjunto.
