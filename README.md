@@ -48,3 +48,32 @@ Datos: `casen_reducido.csv`, `salario_minimo_chile.csv` y `ene-2026-06-mjj.csv`.
     el norte, (C) en qué momento de la vida se abre esa brecha. Los tres paneles
     comparten fuente, paleta y unidad , así que se leen como un
     solo argumento, con un título general que dice el hallazgo de conjunto.
+    
+## Declaración de autoría y uso de IA
+
+Copia este bloque al final de tu `README.md` y complétalo:
+
+```markdown
+## Declaración de autoría y uso de IA
+- Herramienta utilizada: Claude 
+- Para qué la usé: Entender partes de codigo que no corrian por errores de codigo,
+revision y verificacion de codigo.
+- Qué hice yo: Elegi graficos, colores, tema, reflexion de graficos, construccion del codigo
+del esqueleto y luego de la tarea.
+- Verificación: confirmo que entiendo y puedo explicar todo lo que entrego.
+```
+
+**Uso permitido:** pedir que te expliquen un error, preguntar qué hace una función
+o un argumento (`weight`, `position`, `max.overlaps`), pedir alternativas a un
+código que ya escribiste, revisar la redacción de la reflexión.
+
+**Uso no permitido:** pegar este enunciado y entregar lo que devuelva; entregar
+código que no puedes explicar línea por línea; pedirle que **elija** el mejor
+gráfico o que **escriba** la reflexión — esas decisiones son lo que se evalúa.
+
+Un aviso concreto: ggplot2 cambia entre versiones (la actual es la 4.0) y los
+chatbots suelen proponer argumentos obsoletos (`size` en vez de `linewidth` para
+líneas, por ejemplo). **Verifica en el cheatsheet o en la documentación.**
+
+Declarar el uso **no baja la nota**; ocultarlo constituye falta a la ética
+académica (Guía de uso ético de tecnologías digitales, UdeC).    
